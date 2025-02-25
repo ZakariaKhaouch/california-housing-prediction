@@ -7,4 +7,3 @@ matplotlib
 pickle-mixin
 pickle
 folium
-streamlit_folium
